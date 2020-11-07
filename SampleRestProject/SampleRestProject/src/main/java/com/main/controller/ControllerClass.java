@@ -10,4 +10,9 @@ public class ControllerClass {
     public String getMethod(){
         return "This is Get Method";
     }
+
+    @GetMapping(value = "/get2")
+    public String getMethod2(){
+        return "This is Get Method 2";
+    }
 }
