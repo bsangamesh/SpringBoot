@@ -1,2 +1,2 @@
-# SpringMVC_SpringBoot
-This is the repository for the Spring related technologies
+# SpringBoot
+This repo contains learning and projects related to Spring Boot
